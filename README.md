@@ -11,8 +11,10 @@ session frequency and session length.
 
 The recipe team asks you to help them with two requests based around the recipe usage
 data:
+
 ○ Are there any recipes that are more popular during the week vs. the weekends, or
 the other way around?
+
 ○ Do successful recipes have any features that distinguish them from less
 successful recipes?
 
